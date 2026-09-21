@@ -1,6 +1,5 @@
 # UILib
 
-![preview](assets/preview.svg)
 
 A flat, dense Drawing menu for Matcha. Sharp corners, monospace, no dependencies.
 
@@ -145,8 +144,6 @@ Library:SetKeybindList(true)        -- every bound key, active ones lit, draggab
 ```
 
 ## Look
-
-![settings](assets/settings.svg)
 
 ```lua
 Library:SetTheme("terminal")                 -- or a table of roles
